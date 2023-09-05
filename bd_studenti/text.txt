@@ -1,0 +1,3 @@
+In this LabVIEW application, I designed a school database system. I created an Access database to store information about teachers and students, including their names, grades, and other relevant details. Next, I established a connection between LabVIEW and the Access database through a UDL (Universal Data Link) link.
+
+Using LabVIEW, I interacted with the database by executing SQL commands to retrieve and manipulate the data. Ultimately, I developed a user-friendly application that leverages the database to enhance school-related tasks and processes.
